@@ -18,11 +18,12 @@
 
 ## 👩‍💻 About Me
 
-First-year CSE (AI/ML) student who got hooked on open source after realizing one well-placed fix could unblock an entire project.
+Second-year CSE (AI/ML) student with a deep interest in open source contribution and AI workflow.
 
 Right now, I'm an **active contributor for Social Summer of Code, Season 5 (SSoC26)** - India's largest open source program. I spend my time auditing real codebases, tracking down bugs that actually matter, and shipping fixes end-to-end: raising detailed issues, working branch by branch, and following through to merged PRs.
 
 My longer-term goal is to build **AI-powered tools that make everyday workflows simpler** - whether that's personal finance, data annotation, or how people learn to code.
+I love to train AI models , how to improve their answers and make more human friendly decisions. 
 
 <br/>
 
@@ -34,16 +35,16 @@ My longer-term goal is to build **AI-powered tools that make everyday workflows 
 Open source bug audits (SSoC26), Java DSA practice, AI-powered web apps
 
 **🌱 Currently learning**
-React, Flask internals, system design, Git/GitHub workflows
+javascript, python libraries, Git/GitHub workflows
 
 </td>
 <td width="50%" valign="top">
 
 **🤝 Looking for help with**
-System design, Spring Boot, cloud deployment, scalable backend code
+Data Annotation, Data Analysis, python based projects , cloud deployment, scalable backend code
 
 **💬 Happy to talk about**
-Java, Python, DSA, Git & GitHub, open source contribution etiquette
+Java, Python, DSA, Git & GitHub, AI models training, ML projects ,open source contribution etiquette
 
 </td>
 </tr>
