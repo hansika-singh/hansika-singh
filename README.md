@@ -20,7 +20,7 @@
 
 First-year CSE (AI/ML) student who got hooked on open source after realizing one well-placed fix could unblock an entire project.
 
-Right now, I'm an **active contributor for Social Summer of Code, Season 5 (SSoC26)** — India's largest open source program. I spend my time auditing real codebases, tracking down bugs that actually matter, and shipping fixes end-to-end: raising detailed issues, working branch by branch, and following through to merged PRs.
+Right now, I'm an **active contributor for Social Summer of Code, Season 5 (SSoC26)** - India's largest open source program. I spend my time auditing real codebases, tracking down bugs that actually matter, and shipping fixes end-to-end: raising detailed issues, working branch by branch, and following through to merged PRs.
 
 My longer-term goal is to build **AI-powered tools that make everyday workflows simpler** - whether that's personal finance, data annotation, or how people learn to code.
 
