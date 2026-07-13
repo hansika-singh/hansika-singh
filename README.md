@@ -61,7 +61,7 @@ Java, Python, DSA, Git & GitHub, AI models training, ML projects ,open source co
 
 While auditing the financial utility modules, I found three bugs quietly producing wrong numbers for users: broken compound interest logic, a ratio-status indicator pointing the wrong direction, and a hardcoded tax cap that didn't scale with income. I also worked through backend issues including missing SQLAlchemy models and a corrupted `app.py`. Fixed and merged across multiple PRs.
 
-> **Why it mattered:** these weren't cosmetic bugs — they affected the actual financial guidance the app was giving people.
+> **Why it mattered:** these weren't cosmetic bugs - they affected the actual financial guidance the app was giving people.
 
 `Python` `Flask` `SQLAlchemy` `Bug Auditing`
 
@@ -72,7 +72,7 @@ While auditing the financial utility modules, I found three bugs quietly produci
 
 Diagnosed and fixed a navbar and profile-icon responsiveness issue that broke navigation on smaller viewports, plus additional bugs raised as individual issues and resolved via dedicated fix branches.
 
-> **Why it mattered:** mobile users were losing access to core navigation entirely — a small fix with an outsized UX impact.
+> **Why it mattered:** mobile users were losing access to core navigation entirely - a small fix with an outsized UX impact.
 
 `JavaScript` `CSS` `Responsive Design`
 
