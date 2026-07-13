@@ -79,7 +79,7 @@ Diagnosed and fixed a navbar and profile-icon responsiveness issue that broke na
 <br/>
 
 ### ⭐ [Algo-Infinity-Verse](https://github.com/hansika-singh/Algo-Infinity-Verse)
-*Contributor — gamified DSA learning platform*
+*Contributor - gamified DSA learning platform*
 
 Ongoing feature contributions focused on algorithm design and implementation.
 
@@ -88,7 +88,7 @@ Ongoing feature contributions focused on algorithm design and implementation.
 ### 🌍 [Open Source Contribution Atelier](https://github.com/hansika-singh/Open-Source-Contribution-Atelier)
 *Personal repo*
 
-Where I document my own open source workflow — issue triage, PR etiquette, contribution patterns - as I build the habits up in real time.
+Where I document my own open source workflow - issue triage, PR etiquette, contribution patterns - as I build the habits up in real time.
 
 <br/>
 
