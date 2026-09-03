@@ -35,7 +35,7 @@ I love to train AI models , how to improve their answers and make more human fri
 Open source bug audits (SSoC26)
 
 **🌱 Currently learning**
-Java DSA practice, AI-powered web apps, python, javascript, Git/GitHub workflows
+Data Structure and algorithms, AI-powered web apps, python, javascript, Git/GitHub workflows
 
 </td>
 <td width="50%" valign="top">
