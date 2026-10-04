@@ -124,6 +124,7 @@ I’m a **2nd-year CSE student** focused on becoming a **backend developer**.
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=hansika-singh&theme=calm_pink" width="48%" />
+
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hansika-singh&layout=compact&theme=calm_pink" width="48%" />
 
 <br/>
