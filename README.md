@@ -92,6 +92,7 @@ I’m a **2nd-year CSE student** focused on becoming a **backend developer**.
 🔗 https://github.com/hansika-singh/Algo-Infinity-Verse
 
 * Contributing to **DSA-focused features and logic implementation**
+* Developed the gamification system and fixed the Beginner, Intermediate, and Advanced learning modules in Algo Infinity Verse, improving learning progression, user engagement, and the overall DSA learning experience.
 
 ---
 
